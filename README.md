@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @christorfo
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning analysis and systems development in Universidade Federal do Paraná
-- 💞️ I’m looking to collaborate on Bungie someday.
-- 📫 How to reach me: crsprd10@hotmail.com / christopherrodrigues@ufpr.br
-
-<!---
-christorfo/christorfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Christopher!
+- 👀 I’m interested in Back End development;
+- 👨🏻‍💻 I’m currently learning C# and JavaScript;
+- 🚀 I’m aiming to collaborate in a game company some day;
+- 📫 How to reach me: christopherrodrigues-16@hotmail.com / crsprd10@hotmail.com / christopherrodrigues@ufpr.br
