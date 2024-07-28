@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Christopher!
-- 👀 I’m interested in Back End development and Quality Assurance;
-- 👨🏻‍💻 C#/C | Java | JavaScript | PHP | Postgre SQL;
-- 🚀 I’m aiming to collaborate in a game company working with accessibility;
-- 📫 How to reach me: christopherrodrigues-16@hotmail.com / crsprd10@hotmail.com
+
