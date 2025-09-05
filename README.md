@@ -1,4 +1,4 @@
-# Olá, eu sou [Christopher Picolotto Rodrigues]! 👋
+# Olá, eu sou Christopher Picolotto Rodrigues! 👋
 
 ### Desenvolvedor Full-Stack & Analista de Dados | Construindo soluções de ponta a ponta, orientadas por dados.
 
