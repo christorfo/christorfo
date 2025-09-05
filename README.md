@@ -51,10 +51,10 @@ O objetivo é criar uma ferramenta intuitiva que otimize a logística e forneça
     - **Pronto para Deploy:** O projeto está containerizado com Docker, facilitando a implantação em qualquer ambiente.
 
 <p align="left">
-  <a href="https://github.com/christopherprodrigues/gestaofrotas-ui" target="_blank">
-    <img src="https://img.shields.io/badge/-Ver%20Demo%20(Em%20Breve)-grey?style=for-the-badge" />
-  </a>
   <a href="https://github.com/christopherprodrigues/gestaofrotas-api" target="_blank">
+    <img src="https://img.shields.io/badge/-Código%20Fonte-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/christopherprodrigues/gestaofrotas-ui" target="_blank">
     <img src="https://img.shields.io/badge/-Código%20Fonte-blue?style=for-the-badge" />
   </a>
 </p>
@@ -67,29 +67,40 @@ Durante meu estágio, tive a oportunidade de trabalhar em projetos de dados conf
 
 ---
 
-#### 📌 Análise de Engajamento de Clientes em Plataforma Digital
-> **O Desafio:** A equipe de produto precisava entender por que uma funcionalidade chave da plataforma estava com baixo engajamento após o lançamento. A hipótese era que os usuários não a encontravam ou não entendiam seu valor.
+#### 📌 Automação de Processos Analíticos (RPA)
+> **O Desafio:** A equipe gastava horas em tarefas manuais e repetitivas para processar dados e gerar relatórios, criando um gargalo que atrasava a entrega de análises críticas para a tomada de decisão.
 
-Minha responsabilidade foi mergulhar nos dados de logs de eventos da plataforma. Utilizando **SQL** para extrair os dados brutos e **Python (com Pandas e Matplotlib)** para limpar, analisar e visualizar, mapeei toda a jornada do usuário.
+Minha missão foi eliminar esse gargalo construindo robôs de software (RPA) para automatizar os fluxos de trabalho de ponta a ponta.
 
 - **Minha Contribuição:**
-    - Criei um funil de conversão que mostrou exatamente em que ponto do fluxo os usuários abandonavam o processo.
-    - Identifiquei que 80% dos abandonos ocorriam em uma etapa específica, devido a uma interface pouco clara.
-    - Desenvolvi um **dashboard no Power BI** que foi apresentado à liderança, ilustrando o problema com dados claros e quantificáveis.
-- **Resultado:** Com base na minha análise, a equipe de UX redesenhou a etapa problemática. Após a implementação da mudança, **o engajamento na funcionalidade aumentou em 40% em três meses**.
+    - Desenvolvi **scripts em Python** que automatizaram a extração, transformação e carregamento de dados de diversas fontes.
+    - Integrei esses scripts com macros em **Excel** e automatizei a atualização de **dashboards no Power BI**, criando um pipeline de relatórios totalmente autônomo.
+- **Resultado:** **O tempo de processamento de dados foi reduzido de horas para minutos.** Isso não apenas aumentou drasticamente a eficiência da equipe, mas também permitiu que os analistas se concentrassem em gerar insights estratégicos em vez de tarefas operacionais.
 
 ---
 
-#### 📌 Modelo Preditivo para Otimização de Estoque
-> **O Desafio:** Uma empresa de varejo enfrentava perdas financeiras devido ao excesso de produtos parados no estoque (superestocagem) e à perda de vendas por falta de produtos populares (subestocagem).
+#### 📌 Projeção de Custos e Otimização Financeira
+> **O Desafio:** O processo de projeção de custos era em grande parte manual, o que dificultava a otimização de recursos e a criação de provisões financeiras precisas e ágeis.
 
-Fui encarregado de analisar o histórico de vendas de mais de 2 anos para criar um modelo que pudesse prever a demanda futura de produtos-chave.
+Fui responsável por modernizar esse processo, aplicando automação para trazer mais velocidade e precisão à análise financeira.
 
 - **Minha Contribuição:**
-    - Realizei a limpeza e o tratamento de um grande volume de dados de vendas usando **Python (Pandas, NumPy)**.
-    - Apliquei técnicas de análise de séries temporais para identificar padrões de sazonalidade e tendências.
-    - Desenvolvi um modelo de regressão simples para prever a demanda para as 4 semanas seguintes, que serviu como um piloto para o projeto.
-- **Resultado:** O modelo piloto alcançou uma precisão que, em simulações, indicou um potencial de **redução de 15% nos custos de superestocagem** e de **aumento de 5% nas vendas** ao evitar a falta de produtos. Este projeto validou a importância da ciência de dados para a otimização logística da empresa.
+    - Criei projeções de custos automatizadas usando **Python**, que geravam provisões e reclassificações mensais com mínima intervenção humana.
+    - Desenvolvi dashboards interativos em **Power BI** para que a gestão pudesse visualizar tendências de custo e performance financeira de forma clara e intuitiva.
+- **Resultado:** A automação dos processos analíticos **economizou 40% do esforço manual** da equipe. Além disso, a melhoria na visualização dos dados permitiu uma otimização mais eficaz dos recursos financeiros da empresa.
+
+---
+
+#### 📌 Análise de Dados e Modelagem Preditiva
+> **O Desafio:** A empresa precisava tomar decisões mais proativas, mas para isso era necessário prever tendências futuras com base nos grandes volumes de dados históricos disponíveis.
+
+Atuei no processamento desses datasets para extrair inteligência e construir modelos que pudessem prever indicadores-chave de desempenho (KPIs).
+
+- **Minha Contribuição:**
+    - Utilizei **SQL** e **Python (Pandas)** para processar e analisar grandes conjuntos de dados, descobrindo padrões e correlações ocultas.
+    - Implementei **modelos preditivos** para antecipar o comportamento de KPIs, permitindo que a equipe estratégica se preparasse para cenários futuros.
+    - Projetei dashboards em **Power BI** que traduziam os resultados dos modelos e as análises em insights acionáveis para a liderança.
+- **Resultado:** A análise gerou insights que **facilitaram decisões estratégicas mais assertivas**. Os dashboards se tornaram uma ferramenta essencial para o monitoramento de tendências, transformando dados brutos em inteligência de negócio.
 
 ---
 
