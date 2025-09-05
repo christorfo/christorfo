@@ -109,10 +109,10 @@ Atuei no processamento desses datasets para extrair inteligência e construir mo
 Estou ativamente procurando por oportunidades onde possa aplicar minhas competências para criar soluções inovadoras e impulsionar resultados. Se você acredita que meu perfil se encaixa na sua equipe, vamos conversar!
 
 <p align="left">
-  <a href="[SEU LINK DO LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/christopherpicolottorodrigues/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[SEU EMAIL]" target="_blank">
+  <a href="mailto:christopherrodrigues-16@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
