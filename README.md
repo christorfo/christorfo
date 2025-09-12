@@ -8,9 +8,9 @@ Sou um profissional de tecnologia apaixonado por construir soluções que não a
 
 Minha trajetória me proporcionou uma combinação única de competências em **Desenvolvimento Full-Stack** e **Análise de Dados**. Isso significa que eu não apenas construo o motor do carro, mas também analiso o painel de controle para garantir que ele está indo na direção certa e da forma mais eficiente possível.
 
--   **💻 No Desenvolvimento**, tenho experiência sólida na criação de aplicações robustas e escaláveis, utilizando **Java com Spring Boot** no backend e **Angular** no frontend para criar interfaces intuitivas e reativas.
--   **📊 Na Análise de Dados**, uso **Python (Pandas, NumPy)** e **SQL** para transformar dados brutos em insights estratégicos, validando o impacto das soluções que desenvolvo e orientando as próximas decisões.
--   🔍 Minha experiência em **Análise de Testes (QA)** me deu uma mentalidade de "qualidade em primeiro lugar", garantindo que cada linha de código seja não apenas funcional, mas também robusta, manutenível e escalável.
+-   ** No Desenvolvimento**, tenho experiência sólida na criação de aplicações robustas e escaláveis, utilizando **Java com Spring Boot** no backend e **Angular** no frontend para criar interfaces intuitivas e reativas.
+-   ** Na Análise de Dados**, uso **Python (Pandas, NumPy)** e **SQL** para transformar dados brutos em insights estratégicos, validando o impacto das soluções que desenvolvo e orientando as próximas decisões.
+-    Minha experiência em **Análise de Testes (QA)** me deu uma mentalidade de "qualidade em primeiro lugar", garantindo que cada linha de código seja não apenas funcional, mas também robusta, manutenível e escalável.
 
 Acredito que a sinergia entre criar o código e analisar seu resultado é o que impulsiona a verdadeira inovação. Estou sempre em busca de oportunidades onde possa aplicar essa visão integrada para entregar valor em todo o ciclo de vida do produto.
 
