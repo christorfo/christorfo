@@ -2,7 +2,6 @@
 
 ### Desenvolvedor Full-Stack & Analista de Dados | Construindo soluções de ponta a ponta, orientadas por dados.
 
-<br>
 ## Sobre Mim
 
 Sou um profissional de tecnologia apaixonado por construir soluções que não apenas funcionam, mas que **resolvem problemas reais e geram impacto mensurável no negócio**.
