@@ -4,7 +4,7 @@
 
 <br>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou um profissional de tecnologia apaixonado por construir soluções que não apenas funcionam, mas que **resolvem problemas reais e geram impacto mensurável no negócio**.
 
@@ -18,7 +18,7 @@ Acredito que a sinergia entre criar o código e analisar seu resultado é o que 
 
 ---
 
-## 🛠️ Minhas Ferramentas e Tecnologias
+##  Minhas Ferramentas e Tecnologias
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
@@ -31,7 +31,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
-## ✨ Projetos em Destaque
+## Projetos em Destaque
 
 A seguir, apresento uma combinação de um projeto público onde demonstro minhas habilidades de desenvolvimento ponta a ponta, e uma descrição de projetos de dados que liderei durante minha experiência profissional, focando nos desafios de negócio e nos resultados alcançados.
 
