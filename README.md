@@ -1,6 +1,6 @@
-### QA | Test Developer (Python & Java) | Data Analysis
+### Data Analysis | Test Developer (Python & Java) | QA
 
-QA with experience in Python development for automation and data analysis using Pandas and SQL. Knowledge in building automated testing frameworks in Python (Pytest, Selenium) and in Java ecosystems (Restasured, Cucumber).
+Experience in Python development for automation and data analysis using Pandas and SQL. Knowledge in building automated testing frameworks in Python (Pytest, Selenium) and in Java ecosystems (Restasured, Cucumber).
 
 I utilize my data analysis skills to interpret test results more deeply, create dashboards to visualize quality and performance metrics, and support the identification of the root cause of non-conformities. Accustomed to agile environments (Scrum), I use Git and am familiar with integrating tests into CI/CD pipelines.
 
@@ -8,9 +8,9 @@ I utilize my data analysis skills to interpret test results more deeply, create 
 
 | Category      | Techonologies                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Backend** | `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `C#` `Node.js`                            |
-| **Frontend** | `Angular` `TypeScript` `JavaScript` `React` `Next.js` `HTML5` `CSS3`                                           |
-| **Data & BI** | `SQL` `Python` `Pandas` `NumPy` `Power BI` `Excel` `Predictive Modeling`                                        |
+| **Backend** | `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `Python` `Node.js`                            |
+| **Frontend** | `Angular` `TypeScript` `JavaScript` `React` `Next.js`                                           |
+| **Data & BI** | `SQL` `Pandas` `NumPy` `Power BI` `Excel` `Predictive Modeling`                                        |
 | **DevOps & Tools** | `Git` `Jenkins` `JIRA` `Docker` `Selenium`                                                  |
 
 <p align="left">
