@@ -1,7 +1,5 @@
 ### QA | Desenvolvedor de Testes (Python & Java) | Análise de Dados
 
-## Sobre Mim
-
 QA com experiência em desenvolvimento Python para automação e na análise de dados com Pandas e SQL. Conhecimento em construção de frameworks de testes automatizados em Python (Pytest, Selenium) e em ecossistemas Java (Restassured, Cucumber).
 
 Utilizo minhas habilidades em análise de dados para interpretar resultados de testes de forma mais profunda, criar dashboards para visualização de métricas de qualidade e performance, e apoiar na identificação da causa-raiz de não conformidades. Habituado a ambientes ágeis (Scrum), uso Git e tenho familiaridade com a integração de testes em pipelines de CI/CD.
