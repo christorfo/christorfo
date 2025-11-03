@@ -4,8 +4,6 @@ QA com experiência em desenvolvimento Python para automação e na análise de 
 
 Utilizo minhas habilidades em análise de dados para interpretar resultados de testes de forma mais profunda, criar dashboards para visualização de métricas de qualidade e performance, e apoiar na identificação da causa-raiz de não conformidades. Habituado a ambientes ágeis (Scrum), uso Git e tenho familiaridade com a integração de testes em pipelines de CI/CD.
 
----
-
 ## Ferramentas e Tecnologias
 
 | Categoria      | Tecnologias                                                                                                |
@@ -14,8 +12,6 @@ Utilizo minhas habilidades em análise de dados para interpretar resultados de t
 | **Frontend** | `Angular` `TypeScript` `JavaScript` `React` `Next.js` `HTML5` `CSS3`                                           |
 | **Dados & BI** | `SQL` `Python` `Pandas` `NumPy` `Power BI` `Excel` `Modelagem Preditiva`                                        |
 | **DevOps & Ferramentas** | `Git` `Jenkins` `JIRA` `Docker (Básico)` `Selenium`                                                  |
-
----
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christopherpicolottorodrigues/" target="_blank">
