@@ -1,17 +1,17 @@
-### QA | Desenvolvedor de Testes (Python & Java) | Análise de Dados
+### QA | Test Developer (Python & Java) | Data Analysis
 
-QA com experiência em desenvolvimento Python para automação e na análise de dados com Pandas e SQL. Conhecimento em construção de frameworks de testes automatizados em Python (Pytest, Selenium) e em ecossistemas Java (Restassured, Cucumber).
+QA with experience in Python development for automation and data analysis using Pandas and SQL. Knowledge in building automated testing frameworks in Python (Pytest, Selenium) and in Java ecosystems (Restasured, Cucumber).
 
-Utilizo minhas habilidades em análise de dados para interpretar resultados de testes de forma mais profunda, criar dashboards para visualização de métricas de qualidade e performance, e apoiar na identificação da causa-raiz de não conformidades. Habituado a ambientes ágeis (Scrum), uso Git e tenho familiaridade com a integração de testes em pipelines de CI/CD.
+I utilize my data analysis skills to interpret test results more deeply, create dashboards to visualize quality and performance metrics, and support the identification of the root cause of non-conformities. Accustomed to agile environments (Scrum), I use Git and am familiar with integrating tests into CI/CD pipelines.
 
-## Ferramentas e Tecnologias
+## Technologies
 
-| Categoria      | Tecnologias                                                                                                |
+| Category      | Techonologies                                                                                                |
 | -------------- | ---------------------------------------------------------------------------------------------------------- |
 | **Backend** | `Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `C#` `Node.js`                            |
 | **Frontend** | `Angular` `TypeScript` `JavaScript` `React` `Next.js` `HTML5` `CSS3`                                           |
-| **Dados & BI** | `SQL` `Python` `Pandas` `NumPy` `Power BI` `Excel` `Modelagem Preditiva`                                        |
-| **DevOps & Ferramentas** | `Git` `Jenkins` `JIRA` `Docker (Básico)` `Selenium`                                                  |
+| **Data & BI** | `SQL` `Python` `Pandas` `NumPy` `Power BI` `Excel` `Predictive Modeling`                                        |
+| **DevOps & Tools** | `Git` `Jenkins` `JIRA` `Docker` `Selenium`                                                  |
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christopherpicolottorodrigues/" target="_blank">
